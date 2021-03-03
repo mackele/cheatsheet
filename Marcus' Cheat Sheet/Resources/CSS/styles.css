@@ -1,0 +1,55 @@
+body {
+    background-color: aliceblue;
+}
+
+h2 {
+    color: black;
+    font-family: Helvetica, "sans-serif";
+    background-color: rgb(187, 188, 143);
+    text-align: center
+}
+
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-family: Helvetica, "sans-serif";
+    color: black;
+    background-color: royalblue;
+}
+
+table {
+    font-family: Helvetica, "sans-serif";
+    width: 100%;
+    border-collapse: collapse;
+    background-color: seashell;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+}
+
+table th {
+    font-size: 22px;
+}
+
+.font {
+    font-family: monospace;
+    background-color: aquamarine;
+}
+
+.font2 {
+    background-color: cadetblue;
+}
+
+#danny {
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 5px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
